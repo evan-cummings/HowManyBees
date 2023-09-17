@@ -1,0 +1,4 @@
+name: HowManyBees
+version: '${project.version}'
+main: com.fletchplugins.howmanybees.HowManyBees
+api-version: 1.18
